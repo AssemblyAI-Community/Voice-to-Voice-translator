@@ -2,7 +2,7 @@
 
 On this web app, you can record your voice in English and create translations of what you said in many different languages. And the best thing is, the created translations will be read out in your own voice.
 
-![a screenshot of the interface](ss.jpg)
+![a screenshot of the interface](ss.png)
 
 The technologies used in this app:
 1. Gradio for the interface
